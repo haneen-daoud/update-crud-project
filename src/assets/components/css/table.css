@@ -1,0 +1,34 @@
+.table {
+    width: 100%!important;
+    border-collapse: collapse!important;
+    margin-bottom: 20px!important;
+  }
+
+  
+
+  .table th {
+    background-color: rgb(78, 9, 78)!important;/* Pink color */
+    color: white!important;
+  }
+  .table tr .btn{
+    color: #7a217d;
+    border-radius: 0!important;
+    -webkit-border-radius: 0!important;
+    -moz-border-radius: 0!important;
+    -ms-border-radius: 0!important;
+    -o-border-radius: 0!important;
+}
+ 
+  .table tr .btn:hover ,.table tr .btn .Link:hover {
+    
+    background-color: #7a217d!important; /* Darker purple color on hover */
+    color: aliceblue!important;
+  }
+  td:hover a{
+    color: white!important;
+}
+td a, td{
+    color: #7a217d!important;
+    text-decoration: none!important;
+    font-weight: 500!important;
+}
